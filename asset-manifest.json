@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/beutiful-nails/static/css/main.6e1647d2.chunk.css",
+    "main.js": "/beutiful-nails/static/js/main.2b9f8c27.chunk.js",
+    "main.js.map": "/beutiful-nails/static/js/main.2b9f8c27.chunk.js.map",
+    "runtime-main.js": "/beutiful-nails/static/js/runtime-main.3b72df37.js",
+    "runtime-main.js.map": "/beutiful-nails/static/js/runtime-main.3b72df37.js.map",
+    "static/js/2.d39246de.chunk.js": "/beutiful-nails/static/js/2.d39246de.chunk.js",
+    "static/js/2.d39246de.chunk.js.map": "/beutiful-nails/static/js/2.d39246de.chunk.js.map",
+    "index.html": "/beutiful-nails/index.html",
+    "precache-manifest.5783a31d2d4b764763f99a23b2137d17.js": "/beutiful-nails/precache-manifest.5783a31d2d4b764763f99a23b2137d17.js",
+    "service-worker.js": "/beutiful-nails/service-worker.js",
+    "static/css/main.6e1647d2.chunk.css.map": "/beutiful-nails/static/css/main.6e1647d2.chunk.css.map",
+    "static/js/2.d39246de.chunk.js.LICENSE.txt": "/beutiful-nails/static/js/2.d39246de.chunk.js.LICENSE.txt",
+    "static/media/logo_U_bellas.jpg": "/beutiful-nails/static/media/logo_U_bellas.5d4709f1.jpg",
+    "static/media/s1.png": "/beutiful-nails/static/media/s1.7d5f29bf.png",
+    "static/media/s10.png": "/beutiful-nails/static/media/s10.71e84b5c.png",
+    "static/media/s2.png": "/beutiful-nails/static/media/s2.c47a9407.png",
+    "static/media/s3.png": "/beutiful-nails/static/media/s3.5929ee84.png",
+    "static/media/s4.png": "/beutiful-nails/static/media/s4.5b831307.png",
+    "static/media/s5.png": "/beutiful-nails/static/media/s5.97e76905.png",
+    "static/media/s6.png": "/beutiful-nails/static/media/s6.bbe04384.png",
+    "static/media/s7.png": "/beutiful-nails/static/media/s7.254de920.png",
+    "static/media/s8.png": "/beutiful-nails/static/media/s8.7bb4544f.png",
+    "static/media/s9.png": "/beutiful-nails/static/media/s9.af87c316.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b72df37.js",
+    "static/js/2.d39246de.chunk.js",
+    "static/css/main.6e1647d2.chunk.css",
+    "static/js/main.2b9f8c27.chunk.js"
+  ]
+}
